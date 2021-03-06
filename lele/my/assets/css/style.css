@@ -625,10 +625,10 @@ float:right;
   padding:20px;
   text-align: center;
   margin-bottom: calc(5vh);
-    display: inline-block;
 }
 
-#kontakt img {
+.instaPic {
+    display: inline-block;
   margin:20px 25px;
   position:relative;
   max-width: 60%;
@@ -637,8 +637,11 @@ float:right;
   max-height:250px;
   transition: 0.5s;
 }
-#kontakt img:hover{
+.instaPic:hover{
   opacity:0.7;
+}
+#kontakt img{
+  max-width:250px;
 }
 
 @media (max-width: 600px) {
