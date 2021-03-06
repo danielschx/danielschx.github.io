@@ -625,10 +625,10 @@ float:right;
   padding:20px;
   text-align: center;
   margin-bottom: calc(5vh);
+    display: inline-block;
 }
 
 #kontakt img {
-  display: inline-block;
     max-width:250px;
   max-height:250px;
   margin:20px 25px;
