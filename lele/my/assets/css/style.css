@@ -625,7 +625,6 @@ float:right;
   padding:20px;
   text-align: center;
   margin-bottom: calc(5vh);
-  overflow:hidden;
 }
 
 .instaPic {
@@ -636,6 +635,7 @@ float:right;
   max-height:60%;
   max-width:250px;
   max-height:250px;
+  overflow:hidden;
   transition: 0.5s;
 }
 .instaPic:hover{
