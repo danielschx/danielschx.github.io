@@ -625,15 +625,16 @@ float:right;
   padding:20px;
   text-align: center;
   margin-bottom: calc(5vh);
+  overflow:hidden;
 }
 
 .instaPic {
-    display: inline-block;
+  display: inline-block;
   margin:20px 25px;
   position:relative;
   max-width: 60%;
   max-height:60%;
-      max-width:250px;
+  max-width:250px;
   max-height:250px;
   transition: 0.5s;
 }
