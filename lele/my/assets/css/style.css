@@ -627,14 +627,14 @@ float:right;
   margin-bottom: calc(5vh);
 }
 
-.instaPic {
+.instaPics a {
   display: inline-block;
   margin:20px 25px;
   position:relative;
   max-width: 60%;
   transition: 0.5s;
 }
-.instaPic:hover{
+.instaPics a:hover{
   opacity:0.7;
 }
 #kontakt img{
