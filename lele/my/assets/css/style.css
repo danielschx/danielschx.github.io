@@ -620,7 +620,7 @@ float:right;
 #kontakt h2{
   font-size:40px;
 }
-#instaPics {
+.instaPics {
   margin: 0 auto;
   padding:20px;
   text-align: center;
