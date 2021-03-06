@@ -630,10 +630,11 @@ float:right;
 #kontakt img {
   display: inline-block;
     max-width:250px;
+  max-height:250px;
   margin:20px 25px;
   position:relative;
   max-width: 60%;
-  max-height:width;
+  max-height:60%;
   transition: 0.5s;
 }
 #kontakt img:hover{
