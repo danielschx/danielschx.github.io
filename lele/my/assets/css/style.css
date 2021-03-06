@@ -640,6 +640,14 @@ float:right;
 .instaPic:hover{
   opacity:0.7;
 }
+img .instPic{
+   position:absolute;
+   top:50%;
+   left:50%;
+   margin-top:-25px;
+   margin-left:-25px;
+}
+
 #kontakt img{
   max-width:250px;
 }
