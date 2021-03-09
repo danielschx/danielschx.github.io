@@ -210,6 +210,10 @@ h1, h2, h3, h4, h5, h6 {
   background: #8a9086;
   transition: background 0.2s ease-in-out;
 }
+#main{
+margin:0;
+padding:0;
+}
 #hero {
   width: 100%;
   height: calc(100vh - 80px);
