@@ -488,6 +488,26 @@ padding:5px 15px;
 #ueberuns h3{
   text-transform: uppercase;
 }
+#ueberuns h4{
+margin-left: 10%;
+max-width:80%;
+font-size: larger;
+color: black;
+letter-spacing: 0;
+text-align: center;
+margin-bottom: calc(3vh);
+}
+#ueberuns h5{
+  margin-left: 10%;
+  padding:0;
+  max-width:80%;
+font-size: large;
+letter-spacing: 1px;
+margin-bottom: calc(7vh);
+}
+#ueberuns p{
+  padding-top: 15%;
+}
 #ueberuns .creators .creatorF img{
  max-width: 40%;
 
@@ -522,7 +542,7 @@ float:right;
     width:32%;
     margin-left:34%;
   }
-  #ueberuns .creators .creatorF {
+  #ueberuns .creators {
     text-align: center;
   }
   #ueberuns .creators .creatorF img{
@@ -536,10 +556,6 @@ float:right;
     text-align: start;
     font-size: medium;
     letter-spacing: 1px;
-  }
-
-  #ueberuns .creators .creatorM {
-    text-align: center;
   }
   #ueberuns .creators .creatorM h3{
     text-align: center;
@@ -555,6 +571,9 @@ float:right;
     margin:auto;
     font-size: medium;
     letter-spacing: 1px;
+  }
+  #ueberuns p{
+    padding:0;
   }
 }
 @media (max-width: 768px) {
