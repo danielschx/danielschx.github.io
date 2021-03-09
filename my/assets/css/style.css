@@ -361,6 +361,10 @@ section {
     text-align: left;
     font-size:medium;
   }
+    .section-title ul li p{
+    text-align: left;
+    font-size:medium;
+  }
 }
 
 /* Shop*/
