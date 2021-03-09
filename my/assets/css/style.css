@@ -583,6 +583,12 @@ float:right;
   #ueberuns p{
     padding:0;
   }
+   #ueberuns h4{
+    font-size: large;
+  }
+  #ueberuns h5{
+    font-size: medium;
+  }
 }
 @media (max-width: 768px) {
   #ueberuns h2
