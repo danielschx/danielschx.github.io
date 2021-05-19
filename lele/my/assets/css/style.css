@@ -359,7 +359,7 @@ section {
 #shop{
   width: 100%;
   height: calc(35vh);
-  background: url("C:/Users/danie/Desktop/hallelujahMMXVI/Bootstrap/lele/my/img/shop-header.jpg") center center;
+  background: url("https://danielschx.github.io/my/img/shop-header.jpg") center center;
   background-size: cover;
   background-position: center;
   position: relative;
@@ -594,7 +594,7 @@ float:right;
 #kontakt  .section-title{
   width: 100%;
   height: calc(35vh);
-  background: url("C:/Users/danie/Desktop/hallelujahMMXVI/Bootstrap/lele/my/img/kontakt-header.jpg") center center;
+  background: url("https://danielschx.github.io/my/img/kontakt-header.jpg") center center;
   background-size: cover;
   background-position:55% 40%;
   position: relative;
